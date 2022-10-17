@@ -1,0 +1,35 @@
+* {
+  color: blue;
+}
+
+p {
+  color: lawngreen;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+.heading1 {
+  text-decoration: underline;
+}
+
+.heading2 {
+  text-transform: uppercase;
+}
+
+.info20 {
+  font-size: 50px;
+}
+#heading {
+  font-size: 10px;
+  border: 1px solid hotpink;
+}
+
+q {
+  color: blue;
+}
+
+q.simple {
+  color: darkcyan;
+}
