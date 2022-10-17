@@ -1,35 +1,25 @@
-* {
-  color: blue;
+h1,
+h2,
+span {
+  color: brown;
 }
 
-p {
-  color: lawngreen;
+div p {
+  color: aqua;
 }
 
-h1 {
-  color: blueviolet;
+div p span {
+  color: yellow;
 }
 
-.heading1 {
-  text-decoration: underline;
+ul li > span {
+  background-color: blue;
 }
 
-.heading2 {
-  text-transform: uppercase;
+ul li span {
+  color: black;
 }
 
-.info20 {
-  font-size: 50px;
-}
-#heading {
-  font-size: 10px;
-  border: 1px solid hotpink;
-}
-
-q {
-  color: blue;
-}
-
-q.simple {
-  color: darkcyan;
+ul li + li {
+  border: 2px solid green;
 }
